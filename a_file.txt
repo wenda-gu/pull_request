@@ -1,0 +1,1 @@
+We found lots of brilliant haiku tools online but not many worked well with user input. The brief and rigid Haiku structure makes it difficult to work with the infinite possibilities people might input. However, our Haiku writer is designed with your input in mind. When our robot ca
